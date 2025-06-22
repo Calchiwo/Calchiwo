@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Caleb Wodi – aka **Coder Caleb**  
 
-🚀 15 y/o Developer | Founder of [Rocjet Technologies Ltd](https://github.com/rocjettech)  
+🚀 15 y/o Developer | Founder and CEO of [Rocjet Technologies Ltd](https://github.com/rocjettech)  
 📱 Building full-stack apps from my Android phone  
 🌐 Currently working on [WodiWideWeb](https://wodiwideweb.com) – my digital life story  
 🎯 Self-taught, self-driven, and passionate about tech, creativity, and innovation  
