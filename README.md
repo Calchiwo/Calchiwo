@@ -45,7 +45,7 @@ I'm also the creator of **WodiWideWeb**, a personal storytelling platform where 
 
 - Twitter (X): [@calchiwo](https://x.com/calchiwo)
 - Twitter (X): [@rocjettech](https://x.com/rocjettech)
-- Email (X): calebwodi33@gmail.com
+- Email: calebwodi33@gmail.com
 - Email: rocjettech@gmail.com
 - GitHub: You're already here 😊
 
