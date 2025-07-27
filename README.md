@@ -1,55 +1,81 @@
-# 👋 Hi there, I’m Caleb Wodi – aka **Coder Caleb**
-
-🚀 15 y/o Developer | Founder of [Rocjet Technologies Ltd](https://github.com/rocjettech)  
-📱 Building full-stack apps from my Android phone  
-🌐 Currently working on [WodiWideWeb](https://wodiwideweb.com) – my digital life story  
-🎯 Self-taught, self-driven, and passionate about tech, creativity, and innovation  
+# 👋 Hi there, I’m Caleb Wodi (a.k.a Calchiwo)
 
 ---
 
-## 💡 About Me
+## 🧠 About Me
 
-I'm a teenage founder and developer based in Nigeria. I started **Rocjet Technologies Ltd** to build useful, meaningful software — with nothing but grit, vision, and a smartphone. I believe in learning by doing, and coding with purpose.
+I'm a **15-year-old Nigerian tech founder** & **CEO of Rocjet Technologies Ltd**, passionate about **innovation**, **storytelling**, and **software development**.
 
-I'm also the creator of **WodiWideWeb**, a personal storytelling platform where I share my journey, reflections, and projects as I grow in life and tech.
+I build full-stack apps, websites, and games — all from my **Android phone** — to create digital products that **inspire**, **solve problems**, and **empower others**.
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 My Mission
 
-- **Languages:** HTML, CSS, JavaScript, Python (learning)
-- **Tools:** Replit, GitHub, Firebase, SQLite, Tailwind CSS
-- **Dev Style:** Mobile-first, MVP-focused, open to failing fast and learning faster
+On **April 30, 2025**, I launched **Rocjet Technologies Ltd** to:
+
+- 🚀 Transform bold ideas into real-world tools  
+- 📱 Prove mobile development is powerful and limitless  
+- ✍️ Share my authentic journey as a Gen Z innovator  
+
+I’m also the creator of **[WodiWideWeb](https://wodiwideweb.com)** — a self-coded digital sanctuary and storytelling platform where I document my **journey, reflections, challenges, startup logs, projects, and philosophies**.
+
+---
+
+## 🏆 Highlights
+
+- 📱 **Mobile Developer** — Building full-stack apps using AIDE, Replit, and Termux  
+- 🚀 **Young Founder** — Started Rocjet Technologies Ltd at 15  
+- 📝 **Storytelling Engineer** — Created WodiWideWeb to chronicle my journey  
+- 🧠 **Toolmaker** — Launched WodiC v1, a voice-based calculator app  
+
+---
+
+## 🧰 Tech Stack
+
+| 💻 Language | 🔧 Usage Context                        |
+|------------|------------------------------------------|
+| HTML/CSS   | Frontend · Mobile-first Design           |
+| JavaScript | Web Interactivity · API Integration      |
+| Python     | Backend Scripts · Automation             |
+| Java       | Mobile Apps (AIDE)                       |
+| SQLite     | Lightweight Offline DB                   |
+| Supabase   | Auth · Backend as a Service (BaaS)       |
+
+> **Dev Style**: Mobile-first · MVP-driven · Open-source-oriented · Fail Fast, Learn Faster
 
 ---
 
 ## 🚧 Projects in Progress
 
-- 🔔 **Rocjet Reminder** – a smart, minimal to-do app  
-- 🌍 **WodiWideWeb** – my personal archive and story platform  
-- 🧪 **Open Source Tools** – small tools and experiments to help devs like me
+- 📟 **WodiC v2** — A voice calculator with AI & scientific tools  
+- 🌍 **WodiWideWeb** — A storytelling platform and startup archive  
+- 🧪 **WodiWaitlist** — A minimal waitlist app (coming soon)  
 
 ---
 
-## 🌱 Learning Goals
+## 📚 Learning & Growing
 
-- Advanced JavaScript & Python  
-- Backend development (Node.js, Firebase Functions)  
-- Building production-ready apps from my phone  
-- Contributing to open source projects
-
----
-
-## 📫 Let’s Connect
-
-- Twitter (X): [@calchiwo](https://x.com/calchiwo)  
-- Twitter (X): [@rocjettech](https://x.com/rocjettech)  
-- Email: calebwodi33@gmail.com  
-- Email: rocjettech@gmail.com  
-- GitHub: You're already here 😊
+- 🔹 Advanced JavaScript & Python  
+- 🔹 Firebase Functions, Supabase, and REST APIs  
+- 🔹 Backend deployments and integrations  
+- 🔹 Open-source contributions & doc writing  
+- 🔹 Designing tools for mobile-first devs  
 
 ---
 
-> _“I don’t just want to write code. I want to tell stories, build tools, and inspire other young devs like me to dream big — no laptop needed.”_
+## 🌐 Connect with Me
 
-Thanks for stopping by! 👨🏽‍💻✨
+- 🖥️ Website: [wodiwideweb.com](https://wodiwideweb.com)  
+- 🐦 Twitter (X): [@calchiwo](https://x.com/calchiwo) — Personal  
+- 🚀 Rocjet Brand: [@rocjettech](https://x.com/rocjettech) — Company  
+- 📧 Email: calchiwo@calchiwo.com · calebwodi33@gmail.com  
+- 👨🏽‍💻 GitHub: [@calchiwo](https://github.com/calchiwo)  
+
+---
+
+> _“I don’t just want to write code. I want to tell stories, build tools, and inspire a generation of developers to dream big — from anywhere, with anything.”_
+
+---
+
+<p align="center"><strong>📌 Be sure to check out my pinned projects below 👇</strong></p>
