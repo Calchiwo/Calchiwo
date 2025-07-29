@@ -50,7 +50,7 @@ I’m also the creator of **[WodiWideWeb](https://wodiwideweb.com)** — a self-
 
 - 📟 **WodiC v2** — A voice calculator with AI & scientific tools  
 - 🌍 **WodiWideWeb** — A storytelling platform and startup archive  
-- 🧪 **WodiWaitlist** — A minimal waitlist app (coming soon)  
+- 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app)  — A minimal waitlist app   
 
 ---
 
