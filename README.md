@@ -49,7 +49,7 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 ## 🚧 Projects in Progress
 
 - 📟 [**WodiC v2**](https://github.com/Calchiwo/WodiC) — A voice calculator with AI & scientific tools  
-- 🌍 **WodiWideWeb** — A storytelling platform and startup archive  
+- 🌍[**WodiWideWeb**](https://calchiwo.github.io/WodiWideWeb) — A storytelling platform and startup archive  
 - 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app)  — A minimal waitlist app   
 
 ---
