@@ -49,7 +49,7 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 ## 🚧 Projects in Progress
 
 - 📟 [**WodiC v2**](https://github.com/Calchiwo/WodiC) — A voice calculator with AI & scientific tools  
-- 🌍[**WodiWideWeb**](https://calchiwo.github.io/WodiWideWeb) — A storytelling platform and startup archive  
+- 🌍 [**WodiWideWeb**](https://calchiwo.github.io/WodiWideWeb) — A storytelling platform and startup archive  
 - 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app)  — A minimal waitlist app   
 
 ---
@@ -66,7 +66,7 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 
 ## 🌐 Connect with Me
 
-- 🖥️ Website: [wodiwideweb.com](https://wodiwideweb.com)  
+- 🖥️ Website: [wodiwideweb.com](https://calchiwo.github.io/WodiWideWeb)  
 - 🐦 Twitter (X): [@calchiwo](https://x.com/calchiwo) — Personal  
 - 🚀 Rocjet Brand: [@rocjettech](https://x.com/rocjettech) — Company  
 - 📧 Email: calchiwo@calchiwo.com · calebwodi33@gmail.com  
