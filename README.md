@@ -48,6 +48,7 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 
 ## 🚧 BuiltByWodi® Projects
 
+- 🔐 [WodiWebify](https://github.com/Calchiwo/WodiWebify) — an encrypted note-taking platform 
 - 📟 [**WodiC v3**](https://github.com/Calchiwo/WodiC) — A voice calculator with AI & scientific tools  
 - 🌍 [**WodiWideWeb**](https://calchiwo.github.io/WodiWideWeb) — A personal storytelling platform where I document my journey, reflections, lessons, and projects  
 - 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app)  — A wait-list tool for collecting emails sign-ups for my upcoming projects
