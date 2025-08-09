@@ -18,7 +18,7 @@ On **April 30, 2025**, I launched **Rocjet Technologies Ltd** to:
 - 📱 Prove mobile development is powerful and limitless  
 - ✍️ Share my authentic journey as a Gen Z innovator  
 
-I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb)** — a self-coded storytelling platform where I document my **journey, reflections, lessons, memories, and projects**.
+I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb)** , a self-coded storytelling platform where I document my **journey, reflections, lessons, memories, and projects**.
 
 ---
 
