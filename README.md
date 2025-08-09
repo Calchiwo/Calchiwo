@@ -46,7 +46,7 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 
 ---
 
-## 🚧 Projects
+## 🚧 BuiltByWodi® Projects
 
 - 📟 [**WodiC v3**](https://github.com/Calchiwo/WodiC) — A voice calculator with AI & scientific tools  
 - 🌍 [**WodiWideWeb**](https://calchiwo.github.io/WodiWideWeb) — A personal storytelling platform where I document my journey, reflections, lessons, and projects  
