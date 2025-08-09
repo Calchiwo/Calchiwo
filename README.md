@@ -14,7 +14,7 @@ I build full-stack apps, websites, and games — all from my **Android phone** �
 
 On **April 30, 2025**, I launched **Rocjet Technologies Ltd** to:
 
-- 🚀 Transform bold ideas into real-world tools  
+- 🚀 Transform bold ideas into real-world platforms  
 - 📱 Prove mobile development is powerful and limitless  
 - ✍️ Share my authentic journey as a Gen Z innovator  
 
