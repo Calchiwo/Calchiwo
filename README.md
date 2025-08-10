@@ -27,7 +27,7 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 - 📱 **Mobile Developer** — Building full-stack apps using AIDE, Replit, and Termux  
 - 🚀 **Young Founder** — Started Rocjet Technologies Ltd at 15  
 - 📝 **Storytelling Engineer** — Created WodiWideWeb to chronicle my journey  
-- 🧠 **Toolmaker** — Launched WodiC v1, a voice-based calculator app  
+- 🧠 **Toolmaker** — Launched WodiC v1 (and v2), a voice-based calculator app  
 
 ---
 
