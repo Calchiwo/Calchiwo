@@ -52,7 +52,7 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 - 📟 [**WodiC v3**](https://github.com/Calchiwo/WodiC) — A voice calculator with AI & scientific tools  
 - 🌍 [**WodiWideWeb**](https://calchiwo.github.io/WodiWideWeb) — My personal storytelling platform where I document my journey, reflections, lessons, and projects  
 - 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app)  — A wait-list platform for collecting emails sign-ups for my upcoming projects
-- 🖼️  [**WodiMemories**](https://github.com/Calchiwo/WodiMemories) — A photo gallery showcasing life’s moments, milestones, and memories.
+- 📸 [**WodiMemories**](https://github.com/Calchiwo/WodiMemories) — A photo gallery showcasing life’s moments, milestones, and memories.
 
 ---
 
@@ -72,11 +72,11 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 - 🐦 Twitter (X): [@calchiwo](https://x.com/calchiwo) — Personal  
 - 🚀 Rocjet Brand: [@rocjettech](https://x.com/rocjettech) — Company  
 - 📧 Email: calchiwo@calchiwo.com  
-- 👨🏽‍💻 GitHub: [@calchiwo](https://github.com/calchiwo)  
+- 👨🏽‍💻 GitHub: [@calchiwo](https://github.com/Calchiwo)  
 
 ---
 
-> _“I don’t just want to write code. I want to tell stories, build tools, and inspire a generation of developers to dream big — from anywhere, with anything.”_
+> _“I don’t just want to write code. I want to tell stories, build platforms, and inspire a generation of developers to dream big — from anywhere, with anything.”_
 
 ---
 
