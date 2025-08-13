@@ -50,9 +50,9 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 
 - 🔐 [**WodiWebify**](https://github.com/Calchiwo/WodiWebify) — An encrypted note-taking platform 
 - 📟 [**WodiC v3**](https://github.com/Calchiwo/WodiC) — A voice calculator with AI & scientific tools  
-- 🌍 [**WodiWideWeb**](https://calchiwo.github.io/WodiWideWeb) — My personal storytelling platform where I document my journey, reflections, lessons, and projects  
+- 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app) — My personal storytelling platform where I document my journey, reflections, lessons, and projects  
 - 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app)  — A wait-list platform for collecting early interest and sign-ups for my upcoming launches 
-- 📸 [**WodiMemories**](https://github.com/Calchiwo/WodiMemories) — A personal photo gallery showcasing life’s moments, milestones, and memories.
+- 📸 [**WodiMemories**](https://wodimemories.netlify.app) — A personal photo gallery showcasing life’s moments, milestones, and memories.
 
 ---
 
