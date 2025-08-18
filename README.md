@@ -42,7 +42,7 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 | SQLite     | Lightweight Offline DB                   |
 | Supabase   | Auth · Backend as a Service (BaaS)       |
 
-> **Dev Style**: Mobile-first · MVP-driven · Open-source-oriented · Fail Fast, Learn Faster
+> **Dev Style**: Mobile-first · MVP-driven · Open-source-oriented · Build Fast, Learn Faster
 
 ---
 
@@ -59,7 +59,7 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 ## 📚 Learning & Growing
 
 - 🔹 Advanced JavaScript & Python  
-- 🔹 Firebase Functions, Supabase, and REST APIs  
+- 🔹 Firebase Functions, and REST APIs  
 - 🔹 Backend deployments and integrations  
 - 🔹 Open-source contributions & doc writing  
 - 🔹 Designing tools for mobile-first devs  
