@@ -13,7 +13,7 @@ I build full-stack apps, websites, games and AI — all from my **Android phone*
 
 ## 💡 My Mission
 
-On **April 30, 2025**, I launched **Rocjet Technologies Ltd** to:
+On **April 30, 2025**, I founded **Rocjet Technologies Ltd** to:
 
 - 🚀 Transform bold ideas into real-world platforms  
 - 📱 Prove mobile development is powerful and limitless  
