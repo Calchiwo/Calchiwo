@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Caleb Wodi (a.k.a Calchiwo)
+# 👋 Hi there, I’m Caleb "Calchiwo" Wodi
 
 ---
 
