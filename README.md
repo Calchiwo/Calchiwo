@@ -36,7 +36,7 @@ I’m also the creator of **[WodiWideWeb](https://wodiwideweb.netlify.app)**, a 
 
 | 💻 Language | 🔧 Usage Context                        |
 |------------|------------------------------------------|
-| HTML/CSS   | Frontend · Mobile-first Design           |
+| HTML/CSS   | Mobile-first Design           |
 | JavaScript | Web Interactivity · API Integration      |
 | Python     | Backend Scripts · Automation             |
 | Java       | Mobile Apps (AIDE)                       |
