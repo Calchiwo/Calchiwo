@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-I'm a **15-year-old Nigerian Teen Tech Founder** & **CEO of** [**Rocjet Technologies Ltd**](https://github.com/Calchiwo/rocjettech), passionate about **innovation**, **storytelling**, and **technology**.
+I'm a **15-year-old Nigerian Teen Tech Founder** & **CEO of** [**Rocjet Technologies Ltd**](https://github.com/Calchiwo/RocjetTechnologies), passionate about **innovation**, **storytelling**, and **technology**.
 
 I build full-stack apps, websites, games and AI — all from my **Android phone** — to create digital platforms that **inspire**, **solve problems**, and **empower others**.
 
@@ -19,7 +19,7 @@ On **April 30, 2025**, I founded **Rocjet Technologies Ltd** to:
 - 📱 Prove mobile development is powerful and limitless  
 - ✍️ Share my authentic journey as a Gen Z innovator  
 
-I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb)**, a self-coded storytelling platform where I document my **journey, reflections, lessons, memories, and projects**.
+I’m also the creator of **[WodiWideWeb](https://wodiwideweb.netlify.app)**, a self-coded storytelling platform where I document my **journey, reflections, lessons, memories, and projects**.
 
 ---
 
@@ -49,8 +49,8 @@ I’m also the creator of **[WodiWideWeb](https://calchiwo.github.io/WodiWideWeb
 
 ## 🚧 BuiltByWodi® Projects
 
-- 🔐 [**WodiNotes**](https://github.com/Calchiwo/WodiNotes) (formerly WodiWebify) — An offline-first encrypted note-taking platform 
-- 📟 [**WodiC**](https://github.com/Calchiwo/WodiC) — An offline-first AI-powered voice calculator with scientific tools  
+- 🔐 [**WodiNotes**](https://wodinotes.netlify.app) (formerly WodiWebify) — An offline-first encrypted note-taking platform 
+- 📟 [**WodiC**](https://wodic.netlify.app) — An offline-first AI-powered voice calculator with scientific tools  
 - 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app) — My personal storytelling platform where I document my journey, reflections, lessons, and projects  
 - 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app)  — A wait-list platform for collecting early interest and sign-ups for my upcoming projects and launches 
 - 📸 [**WodiMemories**](https://wodimemories.netlify.app) — A personal photo gallery showcasing life’s moments, milestones, and memories.
@@ -70,7 +70,7 @@ A cross-platform gaming space built by me, for everyone.
 
 ## 🌐 Connect with Me
 
-- 🖥️ Website: [wodiwideweb.com](https://calchiwo.github.io/WodiWideWeb)  
+- 🖥️ Website: [wodiwideweb.com](https://wodiwideweb.netlify.app)  
 - 🐦 Twitter (X): [@calchiwo](https://x.com/calchiwo) — Personal  
 - 🚀 Rocjet Brand: [@rocjettech](https://x.com/rocjettech) — Company  
 - 📧 Email:  
