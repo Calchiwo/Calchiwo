@@ -1,4 +1,5 @@
-# 👋 Hi there, 
+# 👋 Hey there, 
+
 # I’m Caleb Chikanka Wodi also known as "Calchiwo"
 
 ---
