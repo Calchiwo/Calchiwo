@@ -1,10 +1,4 @@
-# 👋 Hey there, I’m Caleb Chikanka Wodi (aka "Calchiwo")  
-
----
-
-## 🧠 About Me
-
-I’m a **15-year-old teen founder** from Port Harcourt, Nigeria, and I build **apps, websites, games, and AI projects**.... all from my **Android phone** (yes, no laptop yet 😅).  
+# 👋 Hi, I’m Caleb Wodi, a **15-year-old teen founder** from Port Harcourt, Nigeria, and I build **apps, websites, games, and AI projects**.... all from my **Android phone** (yes, no laptop yet 😅).  
 
 On **April 30, 2025**, I launched **[Rocjet Technologies Ltd](https://github.com/Calchiwo/RocjetTechnologies)**  
 
