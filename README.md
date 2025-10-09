@@ -22,31 +22,6 @@ On **April 30, 2025**, I founded **Rocjet Technologies Ltd** to:
 
 I’m also the creator of **[WodiWideWeb](https://wodiwideweb.netlify.app)**, a self-coded storytelling platform where I document my **journey, reflections, lessons, memories, and projects**.
 
----
-
-## 🏆 Highlights
-
-- 📱 **Mobile Developer** — Building full-stack apps using AIDE, Replit, and Termux  
-- 🚀 **Young Founder** — Started Rocjet Technologies Ltd at 15  
-- 📝 **Storytelling Engineer** — Created WodiWideWeb to document my journey  
-- 🧠 **Toolmaker** — Launched WodiC v1 (and v2), a voice-based calculator app  
-
----
-
-## 🧰 Tech Stack
-
-| 💻 Language | 🔧 Usage Context                        |
-|------------|------------------------------------------|
-| HTML/CSS   | Mobile-first Design           |
-| JavaScript | Web Interactivity · API Integration      |
-| Python     | Backend Scripts · Automation             |
-| Java       | Mobile Apps (AIDE)                       |
-| SQLite     | Lightweight Offline DB                   |
-| Supabase   | Auth · Backend as a Service (BaaS)       |
-
-> **Dev Style**: Mobile-first · MVP-driven · Open-source-oriented · Build Fast, Learn Faster
-
----
 
 ## 🚧 BuiltByWodi® Projects
 
@@ -59,28 +34,5 @@ I’m also the creator of **[WodiWideWeb](https://wodiwideweb.netlify.app)**, a 
 A cross-platform gaming space built by me, for everyone. 
 ---
 
-## 📚 Learning & Growing
-
-- 🔹 Advanced JavaScript & Python  
-- 🔹 Firebase Functions, and REST APIs  
-- 🔹 Backend deployments and integrations  
-- 🔹 Open-source contributions & doc writing  
-- 🔹 Designing tools for mobile-first devs  
-
----
-
-## 🌐 Connect with Me
-
-- 🖥️ Website: [wodiwideweb.com](https://wodiwideweb.netlify.app)  
-- 🐦 Twitter (X): [@calchiwo](https://x.com/calchiwo) — Personal  
-- 🚀 Rocjet Brand: [@rocjettech](https://x.com/rocjettech) — Company  
-- 📧 Email:  
-- 👨🏽‍💻 GitHub: [@calchiwo](https://github.com/Calchiwo)  
-
----
-
-> _“I don’t just want to write code. I want to tell stories, build platforms, and inspire a generation of developers to dream big — from anywhere, with anything.”_
-
----
 
 <p align="center"><strong>📌 Be sure to check out my pinned projects below 👇</strong></p>
