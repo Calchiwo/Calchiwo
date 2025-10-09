@@ -1,4 +1,4 @@
-# 👋 Hey there, 
+# 👋 Hi there, 
 
 # I’m Caleb Chikanka Wodi also known as "Calchiwo"
 
@@ -6,21 +6,15 @@
 
 ## 🧠 About Me
 
-I'm a **15-year-old Nigerian Teen Tech Founder** & **CEO of** [**Rocjet Technologies Ltd**](https://github.com/Calchiwo/RocjetTechnologies), passionate about **innovation**, **storytelling**, and **technology**.
+I'm a **15-year-old Nigerian Teen Tech Founder** of** [**Rocjet Technologies Ltd**](https://github.com/Calchiwo/RocjetTechnologies)
 
-I build full-stack apps, websites, games and AI — all from my **Android phone** — to create digital platforms that **inspire**, **solve problems**, and **empower others**.
+I build apps, websites, games and AI — all from my **Android phone**
 
 ---
 
-## 💡 My Mission
+On **April 30, 2025**, I founded **Rocjet Technologies Ltd**
 
-On **April 30, 2025**, I founded **Rocjet Technologies Ltd** to:
-
-- 🚀 Transform bold ideas into real-world platforms  
-- 📱 Prove mobile development is powerful and limitless  
-- ✍️ Share my authentic journey as a Gen Z innovator  
-
-I’m also the creator of **[WodiWideWeb](https://wodiwideweb.netlify.app)**, a self-coded storytelling platform where I document my **journey, reflections, lessons, memories, and projects**.
+I’m also the creator of **[BuiltByWodi®](https://builtbywodi.netlify.app)**: my personal tech brand
 
 
 ## 🚧 BuiltByWodi® Projects
