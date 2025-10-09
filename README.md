@@ -6,7 +6,7 @@ I’m also the creator of **[BuiltByWodi®](https://builtbywodi.netlify.app)**, 
 
 ---
 
-## 🚀 BuiltByWodi® Projects
+## BuiltByWodi® Projects
 
 - 🔐 [**WodiNotes**](https://wodinotes.netlify.app); an offline, encrypted note-taking app (formerly WodiWebify)  
 - 📟 [**WodiC**](https://wodic.netlify.app); an offline AI-powered voice calculator with scientific tools  
