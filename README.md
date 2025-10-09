@@ -8,7 +8,7 @@
 
 I'm a **15-year-old Nigerian Teen Tech Founder** of** [**Rocjet Technologies Ltd**](https://github.com/Calchiwo/RocjetTechnologies)
 
-I build apps, websites, games and AI — all from my **Android phone**
+I build apps, websites, games and AI.... all from my **Android phone** (no laptop yet 😅)
 
 ---
 
