@@ -1,6 +1,6 @@
 ## **👋 Hi, I’m Caleb Wodi**, a **15-year-old teen founder** from Port Harcourt, Nigeria, and I build **apps, websites, games, and AI projects**.... all from my **Android phone** (yes, no laptop yet 😅).  
 
-On **April 30, 2025**, I founded **[Rocjet Technologies Ltd](https://github.com/RocjetTechnologies)** as an AI Technology company in an uncompleted building near my home.
+On **April 30, 2025**, I founded **[Rocjet Technologies Ltd](https://github.com/RocjetTechnologies)** as an AI-first Technology company in an uncompleted building near my home.
 
 I’m also the creator of **[BuiltByWodi®](https://builtbywodi.netlify.app)**, my personal tech brand where I experiment, learn, and share my journey.  
 
