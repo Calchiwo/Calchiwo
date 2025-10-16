@@ -13,7 +13,7 @@ I’m also the creator of **[BuiltByWodi®](https://builtbywodi.netlify.app)**, 
 - 🌍 [**WodiWideWeb**](https://wodiwideweb.vercel.app); my personal storytelling platform documenting reflections, lessons, and projects  
 - 🧪 [**WodiWaitlist**](https://wodiwaitlist.vercel.app); my wait-list platform for collecting early interest and sign-ups for upcoming launches  
 - 📸 [**WodiMemories**](https://wodimemories.vercel.app); my personal photo gallery showcasing milestones and memories  
-- 🎮 [**WodiGames**](https://wodigames.vercel.app); a cross-platform hub where I showcase every game I’ve built on my phone, for everyone to enjoy.  
+- 🎮 [**WodiGames**](https://wodigames.vercel.app); a cross-platform gaming hub where I showcase every game I’ve built on my phone, for everyone to enjoy.  
 
 ---
 
