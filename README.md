@@ -8,12 +8,12 @@ I’m also the creator of **[BuiltByWodi®](https://builtbywodi.netlify.app)**, 
 
 ## BuiltByWodi® Projects
 
-- 🔐 [**WodiNotes**](https://wodinotes.netlify.app); an offline, encrypted note-taking app (formerly WodiWebify)  
-- 📟 [**WodiC**](https://wodic.netlify.app); an offline AI-powered voice calculator with scientific tools  
-- 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app); my personal storytelling platform documenting reflections, lessons, and projects  
-- 🧪 [**WodiWaitlist**](https://wodiwaitlist.netlify.app); my wait-list platform for collecting early interest and sign-ups for upcoming launches  
-- 📸 [**WodiMemories**](https://wodimemories.web.app); my personal photo gallery showcasing milestones and memories  
-- 🎮 [**WodiGames**](https://wodigames.netlify.app); a cross-platform gaming space built by me, for everyone  
+- 🔐 [**WodiNotes**](https://wodinotes.vercel.app); an offline, encrypted note-taking app (formerly WodiWebify)  
+- 📟 [**WodiC**](https://wodic.vercel.app); an offline AI-powered voice calculator with scientific tools  
+- 🌍 [**WodiWideWeb**](https://wodiwideweb.vercel.app); my personal storytelling platform documenting reflections, lessons, and projects  
+- 🧪 [**WodiWaitlist**](https://wodiwaitlist.vercel.app); my wait-list platform for collecting early interest and sign-ups for upcoming launches  
+- 📸 [**WodiMemories**](https://wodimemories.vercel.app); my personal photo gallery showcasing milestones and memories  
+- 🎮 [**WodiGames**](https://wodigames.vercel.app); a WodiGames is a cross-platform hub where I showcase every game I’ve built on my phone, for everyone to enjoy.  
 
 ---
 
