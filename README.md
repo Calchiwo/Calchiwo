@@ -8,7 +8,7 @@ I’m also the creator of **[BuiltByWodi®](https://builtbywodi.netlify.app)**, 
 
 ## BuiltByWodi® Projects
 
-- 🔐 [**WodiNotes**](https://wodinotes.vercel.app); an offline, encrypted note-taking app (formerly WodiWebify)  
+- 🔐 [**WodiNote**](https://wodinote.vercel.app); an offline, encrypted note app (formerly WodiWebify)  
 - 📟 [**WodiC**](https://wodic.vercel.app); an offline AI-powered voice calculator with scientific tools  
 - 🌍 [**WodiWideWeb**](https://wodiwideweb.vercel.app); my personal storytelling platform documenting reflections, lessons, and projects  
 - 🧪 [**WodiWaitlist**](https://wodiwaitlist.vercel.app); my wait-list platform for collecting early interest and sign-ups for upcoming launches  
