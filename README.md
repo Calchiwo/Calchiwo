@@ -5,9 +5,9 @@ I build apps, games and AI projects and I'm currently using my Android phone.
 
 ### 🚀 Building
 - **Rocjet Technologies Ltd**  
-  AI-first technology company focused on ethical and responsible AI
+  An AI-first technology company focused on ethical and responsible AI
 - **BuiltByWodi®**  
-  Personal brand documenting my learning and projects publicly
+  My personal tech brand where I build and experiment projects publicly
 
 ### 🧠 Interests
 - Web & mobile development
