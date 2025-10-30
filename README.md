@@ -1,7 +1,8 @@
-## 👋 Hi, I'm Caleb Wodi, a 15-years-old software developer from Port Harcourt, Nigeria.**
+## 👋 Hi, I'm Caleb Wodi, a teen founder and software developer from Port Harcourt, Nigeria
 
-**As a self-taught programmer, I specialize in web development, app development, and game development.... currently using my Android phone.**
+I build **apps, games and AI**, all from my **Android phone**.  
+I'm a self-taught programmer and always learning by doing.
 
-I’m constantly exploring the cutting edge of technology. Let’s connect and build something amazing together
+Let’s connect, and build something amazing together.
 
 <p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
