@@ -10,15 +10,11 @@ I build apps, games and AI projects and I'm currently using my Android phone.
   My personal tech brand where I build and experiment projects publicly
 
 ### 🧠 Interests
+- Game development
 - Web & mobile development
 - AI development & ethics
 - Creative coding
 - Startup building & systems
-
-### 📌 Currently Learning
-- Frontend Web Development
-- Python & AI fundamentals
-- Product thinking & execution
 
 ### 🎯 Goal
 Build useful technology, learn fast, and ship consistently.
