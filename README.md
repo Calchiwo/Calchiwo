@@ -19,4 +19,4 @@
 ### 🎯 Goal
 Build useful technology, learn fast, and ship consistently.
 
-<p align="center"><strong>👇 Explore my pinned projects</strong></p>
+<p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
