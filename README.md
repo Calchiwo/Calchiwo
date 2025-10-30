@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Caleb Wodi
 
-**I'm a teen founder & developer from Port Harcourt, Nigeria**  
+**I'm a teen founder & software developer from Port Harcourt, Nigeria**  
 I build apps, games and AI projects and I'm currently using my Android phone.
 
 ### 🚀 Building
