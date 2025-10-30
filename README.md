@@ -1,4 +1,4 @@
-## **👋 Hey, I'm Caleb Wodi
+## 👋 Hey, I'm Caleb Wodi
 
 I'm a teen founder from Port Harcourt, Nigeria. I build apps, games, and AI projects, all from my Android phone.
 
