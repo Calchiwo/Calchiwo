@@ -1,12 +1,30 @@
-## 👋 Hey, I'm Caleb Wodi
+---
 
-I'm a teen founder from Port Harcourt, Nigeria.
+## 👋 Hi, I'm Caleb Wodi
 
-I build apps, games, and AI projects, all from my Android phone.
+**Teen founder & developer from Port Harcourt, Nigeria**  
+I build apps, games and AI projects — currently working from an Android phone.
 
-On **April 30, 2025**, I founded **[Rocjet Technologies Ltd](https://github.com/RocjetTechnologies)** in an uncompleted building near my home, with a simple belief:
-you don't need perfect tools to build world-changing technology.
+### 🚀 Building
+- **Rocjet Technologies Ltd**  
+  AI-first technology company focused on ethical and responsible AI
+- **BuiltByWodi®**  
+  Personal brand documenting my learning and projects publicly
 
-I’m also the creator of **[BuiltByWodi®](https://builtbywodi.netlify.app)**, my personal tech brand where I experiment, learn, and share my journey.  
+### 🧠 Interests
+- Web & mobile development
+- AI development & ethics
+- Creative coding
+- Startup building & systems
 
-<p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
+### 📌 Currently Learning
+- Frontend Web Development
+- Python & AI fundamentals
+- Product thinking & execution
+
+### 🎯 Goal
+Build useful technology, learn fast, and ship consistently.
+
+<p align="center"><strong>👇 Explore my pinned projects</strong></p>
+
+---
