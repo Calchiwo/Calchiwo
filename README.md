@@ -13,6 +13,9 @@ I am a 15-year-old founder and software developer from Nigeria. I build **apps�
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calchiwo&theme=radical)
 
+### 🐍 Contribution Snake
+![Caleb's Snake Animation](https://raw.githubusercontent.com/calchiwo/calchiwo/output/github-contribution-grid-snake.svg)
+
 <p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
 
 ---
