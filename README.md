@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Caleb Wodi
 
-I am a 15-year-old founder and software developer from Nigeria. I build **apps📱, games🎮, and AI tools🤖**, all from my **Android phone**. I am self-taught, curious, and always learning by doing. My aim is to make tech accessible, fun, and inspiring for everyone. Let’s connect and build something together.
+I am a 15-year-old founder and software developer from Nigeria. I build **apps📱, games🎮, and AI tools🤖**, all from my **Android phone**. I am self-taught, curious, and always learning by doing. My aim is to make tech accessible, fun, and inspiring for everyone. Let’s connect and build something together
 
 ---
 
