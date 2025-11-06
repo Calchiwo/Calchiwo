@@ -4,7 +4,7 @@ I am a 15-year-old founder and software developer from Nigeria. I build **apps�
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calchiwo&show_icons=true&theme=radical)
 
 ### 💻 Top Languages
