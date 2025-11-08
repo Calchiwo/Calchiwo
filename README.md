@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm Caleb Wodi
 
-I am a 15-year-old self-taught software developer from Nigeria. I build **apps📱, games🎮, and AI tools🤖**, all from my **Android phone**. I am self-taught, curious, and always learning by doing. My aim is to make tech accessible, fun, and inspiring for everyone. Let’s connect and build something amazing together 🤩
+I’m a 15-year-old self-taught software developer from Nigeria. I build apps📱, games🎮, and AI tools🤖, all straight from my Android phone. I learn by doing, experiment a lot, and love turning ideas into real projects. My goal is to make tech fun, accessible, and inspiring for everyone. Let’s connect and build something amazing together 🤩
 
 ---
 
 ### 📊 My GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calchiwo&show_icons=true&theme=radical)
 
-### My Top Languages
+### 🛠 My Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calchiwo&layout=compact&theme=radical)
 
 ### 🔥 My GitHub Streak
