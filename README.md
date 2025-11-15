@@ -7,7 +7,7 @@ I’m a 15-year-old self-taught software developer from Nigeria. I build apps�
 ### 📊 My GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calchiwo&show_icons=true&theme=radical)
 
-### 🛠 My Top Languages
+### 🛠 My Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calchiwo&layout=compact&theme=radical)
 
 ### 🔥 My GitHub Streak
